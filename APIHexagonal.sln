@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHexagonal.Domain", "APIH
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHexagonal.Application", "APIHexagonal.Application\APIHexagonal.Application.csproj", "{F87A42D6-15E0-4101-9E4C-62179C7946E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHexagonal.Infrastructure", "APIHexagonal.Infrastructure\APIHexagonal.Infrastructure.csproj", "{A8461081-13D0-EE15-1B5D-C6DF6C219F23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{F87A42D6-15E0-4101-9E4C-62179C7946E5}.Release|x64.Build.0 = Release|Any CPU
 		{F87A42D6-15E0-4101-9E4C-62179C7946E5}.Release|x86.ActiveCfg = Release|Any CPU
 		{F87A42D6-15E0-4101-9E4C-62179C7946E5}.Release|x86.Build.0 = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|x64.Build.0 = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Debug|x86.Build.0 = Debug|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|x64.ActiveCfg = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|x64.Build.0 = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8461081-13D0-EE15-1B5D-C6DF6C219F23}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
